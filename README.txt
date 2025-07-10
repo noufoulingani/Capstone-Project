@@ -1,0 +1,3 @@
+Per l'analisi di questo report, sono stati usati dati presi dall'ISTAT (Istituto nazionale di statistica Italiano).
+I file sono stati ridimensionati lasciando solo i dati utili per l'analisi, in seguito, su Power BI sono stati rielaborati, per ottenere campi chiave, misure, e tabelle che permettessero la connessione del dataset.
+Nel video verrà dedicato una piccola finestrella alla spiegazione del processo lavorazione dei dati.
